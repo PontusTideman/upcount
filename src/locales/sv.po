@@ -1,0 +1,407 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Upcount 2.0.0-alpha.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-13 08:22+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Pontus Tideman pontus@tideman.io\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: src/routes/invoices/details.tsx:394
+msgid "Add line item"
+msgstr "Lägga till ny vara/tjänst"
+
+#: src/components/clients/form.tsx:62 src/routes/clients.tsx:75
+#: src/routes/settings/organization.tsx:52
+msgid "Address"
+msgstr "Adress"
+
+#: src/routes/settings/organization.tsx:102
+msgid "Are you sure delete this organization?"
+msgstr "Är du säker att du vill radera företaget?"
+
+#: src/routes/invoices/details.tsx:484 src/routes/invoices/preview.tsx:153
+msgid "Are you sure to delete this invoice?"
+msgstr "Är du säker att du vill radera denna faktura?"
+
+#: src/routes/settings/organization.tsx:67
+msgid "Bank name"
+msgstr "Banknamn"
+
+#: src/routes/settings/invoice.tsx:116
+msgid "Change"
+msgstr "Ändra"
+
+#: src/routes/time-tracking.tsx:16
+msgid "Check back soon for updates!"
+msgstr "Kom tillbaka snart för uppdateringar!"
+
+#: src/routes/invoices/index.tsx:94
+msgid "Client"
+msgstr "Kund"
+
+#: src/atoms.tsx:85 src/atoms.tsx:417
+msgid "Client created"
+msgstr "Kund skapad"
+
+#: src/atoms.tsx:87 src/atoms.tsx:419
+msgid "Client creation failed"
+msgstr "Skapande av kund misslyckades"
+
+#: src/atoms.tsx:99 src/atoms.tsx:431
+msgid "Client updated failed"
+msgstr "Uppdatering av kund misslyckades"
+
+#: src/atoms.tsx:97 src/atoms.tsx:429
+msgid "Client updated successfully"
+msgstr "Uppdatering av kund lyckades"
+
+#: src/layouts/base.tsx:100 src/routes/clients.tsx:48
+msgid "Clients"
+msgstr "Kunder"
+
+#: src/routes/invoices/index.tsx:29
+msgid "Confirmed"
+msgstr "Bekräftad"
+
+#: src/routes/index.tsx:54
+msgid "Country"
+msgstr "Land"
+
+#: src/routes/index.tsx:44
+msgid "Create your organization to get started"
+msgstr "Skapa ditt företag för att börja"
+
+#: src/routes/index.tsx:63 src/routes/invoices/details.tsx:207
+#: src/routes/settings/invoice.tsx:57
+msgid "Currency"
+msgstr "Valutor"
+
+#: src/routes/invoices/details.tsx:405
+msgid "Customer note"
+msgstr "Notering"
+
+#: src/components/invoices/pdf.tsx:203 src/routes/invoices/index.tsx:100
+msgid "Date"
+msgstr "Datum"
+
+#: src/routes/settings/invoice.tsx:72
+msgid "Decimal places"
+msgstr "Decimalplacering"
+
+#: src/components/tax-rates/form.tsx:59 src/routes/settings/tax-rates.tsx:65
+msgid "Default"
+msgstr "Standard"
+
+#: src/routes/invoices/details.tsx:490 src/routes/invoices/preview.tsx:159
+#: src/routes/settings/organization.tsx:108
+msgid "Delete"
+msgstr "Radera"
+
+#: src/routes/invoices/details.tsx:483 src/routes/invoices/preview.tsx:152
+msgid "Delete the invoice?"
+msgstr "Radera faktura?"
+
+#: src/components/invoices/pdf.tsx:225 src/components/tax-rates/form.tsx:52
+#: src/routes/invoices/details.tsx:253 src/routes/settings/tax-rates.tsx:50
+msgid "Description"
+msgstr "Beskrivning"
+
+#: src/components/invoices/state-select.tsx:21 src/routes/invoices/index.tsx:25
+msgid "Draft"
+msgstr "Utkast"
+
+#: src/components/invoices/pdf.tsx:206 src/routes/invoices/details.tsx:232
+#: src/routes/invoices/index.tsx:107
+msgid "Due date"
+msgstr "Förfallodatum"
+
+#: src/routes/settings/invoice.tsx:75
+msgid "Due days"
+msgstr "Betalningsvillkor"
+
+#: src/routes/settings/organization.tsx:55
+msgid "E-mail"
+msgstr "Mail"
+
+#: src/components/clients/form.tsx:66
+msgid "E-mails"
+msgstr "Mailadresser"
+
+#: src/routes/invoices/preview.tsx:173
+msgid "Edit"
+msgstr "Redigera"
+
+#: src/components/clients/form.tsx:44
+msgid "Edit client"
+msgstr "Redigera kund"
+
+#: src/components/tax-rates/form.tsx:35
+msgid "Edit tax rate"
+msgstr "Redigera momssats"
+
+#: src/routes/clients.tsx:77
+msgid "Emails"
+msgstr "Mail"
+
+#: src/routes/index.tsx:72
+msgid "Get started"
+msgstr "Börja"
+
+#: src/routes/settings/organization.tsx:74
+msgid "IBAN"
+msgstr "IBAN"
+
+#: src/layouts/base.tsx:132
+msgid "Invoice"
+msgstr "Faktura"
+
+#. placeholder {0}: invoice.number
+#: src/components/invoices/pdf.tsx:177
+msgid "Invoice #{0}"
+msgstr "Faktura #{0}"
+
+#: src/atoms.tsx:217
+msgid "Invoice created"
+msgstr "Faktura skapad"
+
+#: src/atoms.tsx:219
+msgid "Invoice creation failed"
+msgstr "Problem vid skapande av faktura"
+
+#: src/routes/settings/invoice.tsx:52
+msgid "Invoice details"
+msgstr "Fakturadetaljer"
+
+#: src/routes/invoices/details.tsx:198
+msgid "Invoice number"
+msgstr "Fakturanummer"
+
+#: src/atoms.tsx:264
+msgid "Invoice updated failed"
+msgstr "Problem vid uppdatering av faktura"
+
+#: src/atoms.tsx:262
+msgid "Invoice updated successfully"
+msgstr "Faktura uppdaterades framgångsrikt"
+
+#: src/layouts/base.tsx:91 src/routes/invoices/index.tsx:71
+msgid "Invoices"
+msgstr "Fakturor"
+
+#: src/routes/settings/invoice.tsx:107
+msgid "Logo"
+msgstr "Logotyp"
+
+#: src/components/clients/form.tsx:59 src/components/tax-rates/form.tsx:49
+#: src/routes/clients.tsx:66 src/routes/index.tsx:51
+#: src/routes/settings/organization.tsx:49 src/routes/settings/tax-rates.tsx:46
+msgid "Name"
+msgstr "Namn"
+
+#: src/components/clients/form.tsx:44 src/routes/clients.tsx:56
+#: src/routes/invoices/details.tsx:183
+msgid "New client"
+msgstr "Ny kund"
+
+#: src/routes/invoices/index.tsx:79
+msgid "New invoice"
+msgstr "Ny faktura"
+
+#: src/layouts/base.tsx:188
+msgid "New organization"
+msgstr "Nytt företag"
+
+#: src/routes/settings/tax-rates.tsx:37
+msgid "New tax"
+msgstr "Ny moms"
+
+#: src/components/tax-rates/form.tsx:35
+msgid "New tax rate"
+msgstr "Ny momssats"
+
+#: src/routes/invoices/details.tsx:487 src/routes/invoices/preview.tsx:156
+msgid "No"
+msgstr "Nej"
+
+#: src/routes/invoices/details.tsx:250
+msgid "No line items"
+msgstr "Inga varor/tjänster"
+
+#: src/routes/settings/organization.tsx:105
+msgid "No!"
+msgstr "Nej!"
+
+#: src/routes/settings/invoice.tsx:81
+msgid "Notes"
+msgstr "Anteckningar"
+
+#: src/routes/invoices/index.tsx:88
+msgid "Number"
+msgstr "Nummer"
+
+#: src/layouts/base.tsx:123
+msgid "Organization"
+msgstr "Företag"
+
+#: src/atoms.tsx:328
+msgid "Organization created"
+msgstr "Företag skapat"
+
+#: src/atoms.tsx:330
+msgid "Organization creation failed"
+msgstr "Problem vid skapande av företag"
+
+#: src/atoms.tsx:358
+msgid "Organization deleted"
+msgstr "Företag raderat"
+
+#: src/routes/index.tsx:47 src/routes/settings/organization.tsx:42
+msgid "Organization details"
+msgstr "Företagsdetaljer"
+
+#: src/atoms.tsx:342
+msgid "Organization updated failed"
+msgstr "Problem vid uppdatering av företag"
+
+#: src/atoms.tsx:340
+msgid "Organization updated successfully"
+msgstr "Företaget uppdaterades framgångsrikt"
+
+#: src/routes/time-tracking.tsx:13
+msgid "Our time tracking feature is currently being developed."
+msgstr "Vår tidrapportering är under utveckling."
+
+#: src/components/invoices/pdf.tsx:210 src/routes/settings/invoice.tsx:78
+msgid "Overdue charge"
+msgstr "Dröjsmålsränta"
+
+#: src/components/invoices/state-select.tsx:29 src/routes/invoices/index.tsx:33
+msgid "Paid"
+msgstr "Betalad"
+
+#: src/components/tax-rates/form.tsx:55 src/routes/settings/tax-rates.tsx:54
+msgid "Percentage"
+msgstr "Procent"
+
+#: src/components/clients/form.tsx:69 src/routes/clients.tsx:85
+#: src/routes/settings/organization.tsx:58
+msgid "Phone"
+msgstr "Telefon"
+
+#: src/components/tax-rates/form.tsx:54
+msgid "Please input a percentage!"
+msgstr "Vänligen ange procenttal!"
+
+#: src/components/clients/form.tsx:58 src/components/tax-rates/form.tsx:48
+#: src/routes/index.tsx:50
+msgid "Please input name!"
+msgstr "Vänligen ange namn!"
+
+#: src/components/invoices/pdf.tsx:231 src/routes/invoices/details.tsx:304
+msgid "Price"
+msgstr "Pris"
+
+#: src/components/invoices/pdf.tsx:228 src/routes/invoices/details.tsx:276
+msgid "Qty."
+msgstr "Antal"
+
+#: src/routes/settings/organization.tsx:61
+msgid "Registration number"
+msgstr "Organisationsnummer"
+
+#: src/components/clients/form.tsx:46 src/components/tax-rates/form.tsx:37
+#: src/routes/invoices/details.tsx:532 src/routes/settings/invoice.tsx:95
+#: src/routes/settings/organization.tsx:99
+msgid "Save"
+msgstr "Spara"
+
+#: src/routes/clients.tsx:53 src/routes/invoices/index.tsx:76
+msgid "Search text"
+msgstr "Sök text"
+
+#: src/routes/invoices/details.tsx:155
+msgid "Select or create a client"
+msgstr "Välj eller skapa ny kund"
+
+#: src/components/invoices/state-select.tsx:25
+msgid "Sent"
+msgstr "Skickad"
+
+#: src/layouts/base.tsx:116
+msgid "Settings"
+msgstr "Inställningar"
+
+#: src/routes/invoices/index.tsx:122
+msgid "State"
+msgstr "Stat"
+
+#: src/components/invoices/pdf.tsx:256 src/routes/invoices/details.tsx:432
+msgid "Subtotal"
+msgstr "Delsumma"
+
+#: src/components/invoices/pdf.tsx:267 src/routes/invoices/details.tsx:360
+#: src/routes/invoices/details.tsx:439
+msgid "Tax"
+msgstr "Moms"
+
+#: src/layouts/base.tsx:141 src/routes/settings/tax-rates.tsx:30
+msgid "Tax rates"
+msgstr "Momssatser"
+
+#: src/routes/invoices/details.tsx:157 src/routes/invoices/details.tsx:200
+#: src/routes/invoices/details.tsx:209 src/routes/invoices/details.tsx:226
+#: src/routes/invoices/details.tsx:234 src/routes/invoices/details.tsx:267
+#: src/routes/invoices/details.tsx:282 src/routes/invoices/details.tsx:310
+#: src/routes/invoices/details.tsx:338 src/routes/settings/invoice.tsx:59
+msgid "This field is required!"
+msgstr "Detta fält krävs!"
+
+#: src/layouts/base.tsx:109
+msgid "Time tracking"
+msgstr "Tidrapportering"
+
+#: src/components/invoices/pdf.tsx:234 src/components/invoices/pdf.tsx:278
+#: src/routes/invoices/details.tsx:332 src/routes/invoices/details.tsx:449
+#: src/routes/invoices/index.tsx:114
+msgid "Total"
+msgstr "Totalt"
+
+#: src/routes/time-tracking.tsx:10
+msgid "Under Development"
+msgstr "Under utveckling"
+
+#: src/routes/settings/invoice.tsx:116
+msgid "Upload"
+msgstr "Ladda upp"
+
+#: src/components/clients/form.tsx:72
+msgid "VAT Number"
+msgstr "Momsnummer"
+
+#: src/routes/clients.tsx:99
+msgid "VATIN"
+msgstr "Momsregistreringsnummer"
+
+#: src/routes/invoices/details.tsx:505
+msgid "View"
+msgstr "Visa"
+
+#: src/components/invoices/state-select.tsx:33 src/routes/invoices/index.tsx:37
+msgid "Void"
+msgstr "Förfallen"
+
+#: src/components/clients/form.tsx:75 src/routes/clients.tsx:101
+msgid "Website"
+msgstr "Hemsida"
+
+#: src/routes/invoices/details.tsx:486 src/routes/invoices/preview.tsx:155
+#: src/routes/settings/organization.tsx:104
+msgid "Yes"
+msgstr "Ja"
