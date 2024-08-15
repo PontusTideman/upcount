@@ -89,7 +89,7 @@ msgstr "Riik"
 
 #: src/routes/index.tsx:44
 msgid "Create your organization to get started"
-msgstr "Loo oma ettevõte, et elustada"
+msgstr "Loo oma ettevõte, et alustada"
 
 #: src/routes/index.tsx:63
 #: src/routes/invoices/details.tsx:207
