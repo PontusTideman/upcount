@@ -1,7 +1,7 @@
 import { i18n } from "@lingui/core";
 import dayjs from "dayjs";
 
-export const locales = ["en", "et"];
+export const locales = ["en", "et", "sv"];
 
 export const defaultLocale = "en";
 

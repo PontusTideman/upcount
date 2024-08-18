@@ -385,9 +385,18 @@ msgstr "Ladda upp"
 msgid "VAT Number"
 msgstr "Momsnummer"
 
-#: src/routes/clients.tsx:99
+#: src/routes/clients.tsx:101
+#: src/routes/settings/organization.tsx:84
 msgid "VATIN"
 msgstr "Momsregistreringsnummer"
+
+#: src/routes/settings/organization.tsx:91
+msgid: "Swish"
+msgstr "Swish"
+
+#: src/routes/settings/organization.tsx:98
+msgid: "Bankgiro"
+msgstr "Bankgiro"
 
 #: src/routes/invoices/details.tsx:505
 msgid "View"
@@ -398,6 +407,7 @@ msgid "Void"
 msgstr "Förfallen"
 
 #: src/components/clients/form.tsx:75 src/routes/clients.tsx:101
+#: src/routes/settings/organization.tsx:105
 msgid "Website"
 msgstr "Hemsida"
 

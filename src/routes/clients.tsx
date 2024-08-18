@@ -99,6 +99,8 @@ const Clients = () => {
               }}
             />
             <Table.Column title={<Trans>VATIN</Trans>} dataIndex="vatin" key="vatin" />
+            <Table.Column title={<Trans>Swish</Trans>} dataIndex="swish" key="swish" />
+            <Table.Column title={<Trans>Bankgiro</Trans>} dataIndex="bankgiro" key="bankgiro" />
             <Table.Column
               title={<Trans>Website</Trans>}
               dataIndex="website"

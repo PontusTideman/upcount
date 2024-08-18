@@ -64,7 +64,6 @@ function SettingsInvoice() {
               <Form.Item label={t`Registration number`} name="registration_number">
                 <Input />
               </Form.Item>
-
               <Row gutter={16}>
                 <Col span={24}>
                   <Form.Item label={t`Bank name`} name="bank_name">
@@ -81,14 +80,28 @@ function SettingsInvoice() {
               </Row>
               <Row gutter={16}>
                 <Col span={12}>
-                  <Form.Item label={`VATIN`} name="vatin">
+                  <Form.Item label={t`VATIN`} name="vatin">
+                    <Input />
+                  </Form.Item>
+                </Col>
+              </Row>
+              <Row gutter={16}>
+                <Col span={12}>
+                  <Form.Item label={t`Swish`} name="swish">
+                    <Input />
+                  </Form.Item>
+                </Col>
+              </Row>
+              <Row gutter={16}>
+                <Col span={12}>
+                  <Form.Item label={t`Bankgiro`} name="bankgiro">
                     <Input />
                   </Form.Item>
                 </Col>
               </Row>
               <Row>
                 <Col span={24}>
-                  <Form.Item label={`Website`} name="website">
+                  <Form.Item label={t`Website`} name="website">
                     <Input />
                   </Form.Item>
                 </Col>

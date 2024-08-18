@@ -8,7 +8,9 @@
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "extract": "lingui extract"
+    "extract": "lingui extract",
+    "compile": "lingui compile",
+    "tauri": "tauri"
   },
   "dependencies": {
     "@ant-design/icons": "^5.4.0",
